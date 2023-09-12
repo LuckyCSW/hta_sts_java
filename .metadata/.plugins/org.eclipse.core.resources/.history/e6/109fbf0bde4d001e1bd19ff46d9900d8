@@ -1,0 +1,14 @@
+package com.naver.myhome4.config;
+
+import javax.servlet.ServletContext;
+
+import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
+
+public class Securityinitialize extends AbstractSecurityWebApplicationInitializer{
+
+	@Override
+	protected void beforeSpringSecurityFilterChain(ServletContext servletContext) {
+	}
+	
+
+}

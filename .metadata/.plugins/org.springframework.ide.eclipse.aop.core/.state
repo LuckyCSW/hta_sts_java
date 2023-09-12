@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Spring4_MVC_BOARD"/>
+<aop-project name="Spring9_MVC_AOP"/>
+<aop-project name="Spring10_MVC_Security"/>
+<aop-project name="Spring5_MVC_BOARD"/>
+<aop-project name="Spring3_MVC_annotation"/>
+</aop-reference-model>

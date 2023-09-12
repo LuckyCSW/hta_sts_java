@@ -1,0 +1,5 @@
+package com.naver.myhomr4.mybatis.mapper;
+
+public class BoardMapper {
+
+}

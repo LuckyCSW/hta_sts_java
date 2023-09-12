@@ -1,0 +1,12 @@
+127.0.0.1 - - [06/Sep/2023:16:20:09 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [06/Sep/2023:16:20:10 +0900] "GET /myhome3/index_join.jsp HTTP/1.1" 200 2857
+0:0:0:0:0:0:0:1 - - [06/Sep/2023:16:20:10 +0900] "GET /myhome3/resources/css/NewFile.css HTTP/1.1" 200 1680
+0:0:0:0:0:0:0:1 - - [06/Sep/2023:16:20:10 +0900] "GET /myhome3/resources/js/validate2.js HTTP/1.1" 200 4925
+127.0.0.1 - - [06/Sep/2023:17:07:12 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [06/Sep/2023:17:07:12 +0900] "GET /myhome3/index_join.jsp HTTP/1.1" 200 2857
+0:0:0:0:0:0:0:1 - - [06/Sep/2023:17:07:12 +0900] "GET /myhome3/resources/js/validate2.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [06/Sep/2023:17:07:12 +0900] "GET /myhome3/resources/css/NewFile.css HTTP/1.1" 304 -
+127.0.0.1 - - [06/Sep/2023:17:08:38 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [06/Sep/2023:17:08:39 +0900] "GET /myhome3/index_login1.jsp HTTP/1.1" 200 605
+0:0:0:0:0:0:0:1 - - [06/Sep/2023:17:08:39 +0900] "GET /myhome3/resources/css/form.css HTTP/1.1" 200 1206
+0:0:0:0:0:0:0:1 - - [06/Sep/2023:17:08:45 +0900] "POST /myhome3/login_ok1.do HTTP/1.1" 200 533

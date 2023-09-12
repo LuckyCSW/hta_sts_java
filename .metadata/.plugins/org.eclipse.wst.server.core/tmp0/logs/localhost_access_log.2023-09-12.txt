@@ -1,0 +1,10 @@
+127.0.0.1 - - [12/Sep/2023:17:01:03 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [12/Sep/2023:17:01:04 +0900] "GET /myhome4/index.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Sep/2023:17:01:04 +0900] "GET /myhome4/member/login HTTP/1.1" 200 1296
+0:0:0:0:0:0:0:1 - - [12/Sep/2023:17:01:04 +0900] "GET /myhome4/resources/css/login.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Sep/2023:17:01:55 +0900] "POST /myhome4/member/loginProcess HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Sep/2023:17:01:55 +0900] "GET /myhome4/board/list HTTP/1.1" 200 10560
+0:0:0:0:0:0:0:1 - - [12/Sep/2023:17:01:55 +0900] "GET /myhome4/resources/image/line.gif HTTP/1.1" 200 88
+0:0:0:0:0:0:0:1 - - [12/Sep/2023:17:01:55 +0900] "GET /myhome4/resources/js/list.js HTTP/1.1" 200 5809
+0:0:0:0:0:0:0:1 - - [12/Sep/2023:17:01:58 +0900] "POST /myhome4/member/logout HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Sep/2023:17:01:58 +0900] "GET /myhome4/member/login HTTP/1.1" 200 1296

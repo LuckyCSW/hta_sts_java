@@ -1,0 +1,7 @@
+package com.naver.myhome3.config;
+
+@EnableWebMvc
+@ComponentScan(basePackages= {"com.naver.myhome3"})
+public class ServletConfig implements WebMvcConfigurer{
+
+}

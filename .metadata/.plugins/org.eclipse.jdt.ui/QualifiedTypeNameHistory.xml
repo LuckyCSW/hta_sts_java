@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.web.filter.CharacterEncodingFilter"/>
+    <fullyQualifiedTypeName name="javax.servlet.Filter"/>
+    <fullyQualifiedTypeName name="javax.servlet.FilterRegistration.Dynamic"/>
+    <fullyQualifiedTypeName name="com.naver.myhome4.mybatis.mapper.MemberMapper"/>
+</qualifiedTypeNameHistroy>
